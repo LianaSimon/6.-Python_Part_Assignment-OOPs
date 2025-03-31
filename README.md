@@ -114,7 +114,7 @@ class Employee:
 
 
 
-# Use the employee module in Jupyter Notebook In a Jupyter Notebook cell, write the following code to import and use the module:
+Use the employee module in Jupyter Notebook In a Jupyter Notebook cell, write the following code to import and use the module:
 
 ## PROGRAM 2b
 
